@@ -1,0 +1,22 @@
+Main Hosting Details
+Control panel username
+b10_21423714
+Control panel password	**********
+Control panel URL
+cpanel.byethost10.com
+MySQL username
+b10_21423714
+MySQL password
+**********
+MySQL hostname
+sql101.byethost10.com
+FTP username
+b10_21423714
+FTP password
+**********
+FTP host name	ftp.byethost10.com
+
+
+Your Website URL's
+Home page
+http://todo-app.byethost10.com
